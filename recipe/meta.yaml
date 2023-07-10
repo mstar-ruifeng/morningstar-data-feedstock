@@ -41,5 +41,6 @@ about:
 
 extra:
   recipe-maintainers:
+    - jonzeper
     - chandr33
     - mstar-ruifeng
